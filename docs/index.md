@@ -141,23 +141,24 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 ## Schedule
 
 
-| Session  | Topic                                                 | Pages | Presenter |
-| -------- | ----------------------------------------------------- | ----- | --------- |
-| 14.10.26 | Introduction                                          |       | Lena      |
-|          | [Presentation Techniques](./how_to_researchtalk.html) |       | Lena      |
-| 21.10.26 | No Class                                              |       |           |
-| 28.10.26 | No Class                                              |       |           |
-| 04.11.26 | No Class                                              |       |           |
-| 11.11.26 | No Class                                              |       |           |
-| 18.11.26 | No Class                                              |       |           |
-| 25.11.26 | tba                                                   |       |           |
-| 02.12.26 | tba                                                   |       |           |
-| 09.12.26 | tba                                                   |       |           |
-| 16.12.26 | tba                                                   |       |           |
-| 13.01.27 | tba                                                   |       |           |
-| 20.01.27 | tba                                                   |       |           |
-| 27.01.27 | tba                                                   |       |           |
-| 03.02.27 | tba                                                   |       |           |
+| Session  | Topic                                                                                                                                                       | Pages | Presenter |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --------- |
+| 14.10.26 | Introduction                                                                                                                                                |       | Lena      |
+|          | [Presentation Techniques](./how_to_researchtalk.html)                                                                                                       |       | Lena      |
+| 21.10.26 | No Class                                                                                                                                                    |       |           |
+| 28.10.26 | No Class                                                                                                                                                    |       |           |
+| 04.11.26 | No Class                                                                                                                                                    |       |           |
+| 11.11.26 | No Class                                                                                                                                                    |       |           |
+| 18.11.26 | No Class                                                                                                                                                    |       |           |
+| 25.11.26 | Webb, M. (2020): [Coding Democracy - How Hackers Are Disrupting Power, Surveillance, and Authoritarianism](https://mitpress.mit.edu/books/coding-democracy) |       | Federico  |
+| 02.12.26 | van Es, K.; Schäfer,M. (2017): [The Datafied Society. Studying Culture through Data](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)                  |       | Maxim     |
+| 09.12.26 | Bridle, J. (2022): [Ways of Being - Animals, Plants, Machines: The Search for a Planetary Intelligence](https://www.jamesbridle.com/books/ways-of-being)    |       | Martina   |
+| 16.12.26 | Youngblood, G. (1970): [Expanded Cinema](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)                                                              |       | Salvator  |
+| 13.01.27 | Biggs, M.; Karlsson, H. (Ed.): [The Routledge Companion to Research in the Arts](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)                      |       | Lucas     |
+| 20.01.27 | tba                                                                                                                                                         |       |           |
+| 27.01.27 | tba                                                                                                                                                         |       |           |
+| 03.02.27 | tba                                                                                                                                                         |       |           |
+
 
 
 ---
